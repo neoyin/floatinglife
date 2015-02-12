@@ -1,2 +1,6 @@
+cache/
 output/
 srv.pid
+pelican.pid
+pelicanconf.pyc
+
