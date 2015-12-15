@@ -1,3 +1,6 @@
+cache/
 output/
 srv.pid
 .DS_Store
+pelican.pid
+pelicanconf.pyc
